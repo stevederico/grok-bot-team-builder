@@ -15,7 +15,6 @@ Interview the founder, then act as **Chief of Staff**: create the roster and **p
 - Marketing: Inbox, Community, YouTube, Blog/SEO
 - Software: QA gate, App Store review gate, Product builder
 
-**Do not** create Home Server Research or a default specialist infra researcher.
 
 ## Sidebar placement (CoS owns this)
 
@@ -117,5 +116,4 @@ Goal / Progress / Blocker / Today / Faster long → help each other → CoS dige
 - Claim you created sections, colored them, moved bots, or set teammate avatars
 - Create dept bots into Unassigned when the founder said sections are ready but they’re missing — wait
 - Skip ImproveBots / seat ImproveBots in Standup by default
-- Home Server researcher default
 - Secrets / outbound posts during setup / silent rewrites
