@@ -1,14 +1,11 @@
 # grok-bot-team-builder
 
-Grok Bot skill: interview a founder, then create and place a company bot team (Chief of Staff, Research, Software, Marketing, ImproveBots, helpers, Standup).
+Grok Bot skill. The Chief of Staff interviews a founder, then creates and places a company bot team: Research, Software (Build), Marketing, ImproveBots, optional helpers, and a Standup channel.
 
 ## Source of truth
 
-Iterate here until ready. Publish to the Grok Bot template marketplace only when this skill is solid.
-
-- Skill: [`SKILL.md`](./SKILL.md)
-- Local twin on Marty: `agent-data/workflows/team-builder/SKILL.md`
+This repo is the source of truth. Install [`SKILL.md`](./SKILL.md) on the Chief of Staff bot. Replace any other copy, including `agent-data/workflows/team-builder/SKILL.md`, from this file.
 
 ## Status
 
-Draft. Not marketplace-published from this repo yet.
+The skill is ready to run. There is no Grok Bot marketplace listing. The remaining step is to press **Share as Template** in that bot’s Grok Bot settings; this checkout cannot press that button.
