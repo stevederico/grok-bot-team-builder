@@ -8,4 +8,6 @@ This repo is the source of truth. Install [`SKILL.md`](./SKILL.md) on the Chief 
 
 ## Status
 
-The skill is ready to run. There is no Grok Bot marketplace listing. The remaining step is to press **Share as Template** in that bot’s Grok Bot settings; this checkout cannot press that button.
+The skill is ready to run. Public template: https://x.ai/bot/Lrx_GIK9mbXKotjqjwDeA
+
+After a skill change, open Team-Builder in Grok Bot and choose **Update template** so that link stays current.
